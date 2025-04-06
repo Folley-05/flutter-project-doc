@@ -2,7 +2,7 @@
 
 This file documents all available HTTP endpoints exposed by the server.  
 API version: `v1`  
-Base URL: `http://localhost:8080/api/v1/`
+Base URL: `http://localhost:3000/api/v1/`
 
 ---
 
